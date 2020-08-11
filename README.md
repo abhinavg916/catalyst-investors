@@ -1,5 +1,5 @@
 # Edgeledger 
-* A Website of Fictional Finance Company
+* A website of Fictional Finance Company
 
 ## Tech Used
 * HTML
