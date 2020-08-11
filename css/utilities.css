@@ -59,7 +59,7 @@
     height: 100%;
 }
 
-.flex-items>div {
+.flex-items > div {
     /* > means direct child */
     padding: 20px;
 }
