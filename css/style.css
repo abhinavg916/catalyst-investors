@@ -68,7 +68,7 @@ img {
     font-weight: 400;
 }
 
-/* Header/ */
+/* Header */
 
 .hero {
     background: url("../img/home/showcase.jpg") no-repeat center center/cover;
@@ -191,6 +191,6 @@ img {
     color: #28a745
 }
 
-.footer .scoial>* {
+.footer .social > * {
     margin-right: 30px;
 }
