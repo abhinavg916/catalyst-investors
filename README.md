@@ -8,9 +8,11 @@
 ## Previews
 * Web
 
-![Cover](https://github.com/abhinavg916/edgeledger/blob/master/Previews/LQ/Welcome-to-EdgeLedger-Web-View-min.png)
+![Cover](https://github.com/abhinavg916/edgeledger/blob/master/previews/LQ/Welcome-to-EdgeLedger-Web-View-min.png)
 
-* Mobile (Responsive: Made using FlexBox and Media Queries)
+* Mobile (Responsive - Made using FlexBox and Media Queries)
+
+![]()
 
 ## Author
 * Name - Abhinav
