@@ -6,7 +6,7 @@
 * CSS (Flex)
 
 ## Previews
-![Cover]()
+![Cover](https://github.com/abhinavg916/edgeledger/blob/master/Previews/LQ/Welcome-to-EdgeLedger-Web-View-min.png)
 
 ## Author
 * Name - Abhinav
