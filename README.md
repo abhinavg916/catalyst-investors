@@ -7,7 +7,7 @@
 ## Tech Used
 
 - HTML
-- CSS (Use of Flex and Media Queries for Responsiveness)
+- CSS (Use of Flexbox and Media Queries for Responsiveness)
 
 ---
 
